@@ -36,7 +36,7 @@ This project is a **Next.js + TypeScript** replica of the [Veed.io](https://www.
  ├── next.config.js
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1️⃣ Clone the Repository
 ```sh
